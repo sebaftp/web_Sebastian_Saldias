@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+.Titulodebajocarrusel{
+    font-family: "DM Serif Text", serif;
+    text-align: center;
+    margin: 50px;
+    color: #34545C;
+}
+.vacio{
+    padding: 50px;
+}
+.FinPag{
+    background-color: #34545C;
+    padding: 250px;
+    text-align: center;
+    margin: 0;
+    color: white;
+}
+#hrblanco{
+    color: white;
+}
+#passwIncorrect{
+    color: red;
+}
